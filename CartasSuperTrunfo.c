@@ -93,13 +93,13 @@ int main()
 
    printf("Nome da Cidade: %s \n", cidade2);
 
-   printf("População: %d \n", &populacao2);
+   printf("População: %d \n", populacao2);
 
    printf("Área: %.2f km² \n", area2);
 
    printf("PIB: %.2f bilhões de reais \n", pib2);
 
-   printf("Número de pontos turísticos: %d", &pontos_turisticos2);
+   printf("Número de pontos turísticos: %d", pontos_turisticos2);
 
    return 0;
 }
